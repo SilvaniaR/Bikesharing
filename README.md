@@ -1,5 +1,5 @@
 # Citi bikesharing
-Tableau
+
 [Click here to view the dashboard on Tableau](https://public.tableau.com/app/profile/silvania.roche/viz/NYCCitiBike-SharingAnalysisDashboard/NYCCitiBike-SharingAnalysisDashboard?publish=yes)
 
 ## Overview:
