@@ -1,7 +1,6 @@
 # Citi bikesharing
 Tableau
-
-[link to dashboard] https://public.tableau.com/app/profile/silvania.roche/viz/NYCCitiBike-SharingAnalysisDashboard/NYCCitiBike-SharingAnalysisDashboard?publish=yes
+[Click here to view the dashboard on Tableau](https://public.tableau.com/app/profile/silvania.roche/viz/NYCCitiBike-SharingAnalysisDashboard/NYCCitiBike-SharingAnalysisDashboard?publish=yes)
 
 ## Overview:
 For this analysis, we used Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, to create data visuualizatio to pitch to investor that a bike-sharing program in Des Moines is a solid business proposal. In our results we will show the following:
